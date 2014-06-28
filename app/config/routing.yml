@@ -1,0 +1,5 @@
+curso_symfony_workout:
+    resource: "@cursoSymfonyWorkoutBundle/Controller/"
+    type:     annotation
+    prefix:   /
+
